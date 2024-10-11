@@ -2,7 +2,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+Computer+Science+..&hearts;++;Programador+de+Python+Java+y+C#;Me+gustan+las+matemáticas;Y+crear+proyectos+open+source."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com](https://drive.google.com/file/d/1AWTJ9Mgranog9PbEhXYzJmtsY-mSEPg4/view?usp=drive_link)?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+Computer+Science+..&hearts;++;Programador+de+Python+Java+y+C#;Me+gustan+las+matemáticas;Y+crear+proyectos+open+source."></a>
 </p>
 
 <img src="https://img.hotimg.com/wepik--202402251800455mqw.png">
@@ -14,14 +14,11 @@ Soy estudiante de ciencias de la computación en la Universidad Nacional de Colo
 
 - 🖱️ Desarrollador de Software 
 - 💻 Estudiante Ciencias de la Computación
-- 👨‍💻 Conocimiento en tensorflow, pytorch, numpy, pandas y Scikit-learn
-- 📓 NPL
-- 📽️ Vision por conputador
   
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,cs,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,java,html,css&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=angular,django&perline=9)](https://skillicons.dev)
