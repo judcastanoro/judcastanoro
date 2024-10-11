@@ -2,10 +2,10 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com](https://drive.google.com/file/d/1AWTJ9Mgranog9PbEhXYzJmtsY-mSEPg4/view?usp=drive_link)?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+Computer+Science+..&hearts;++;Programador+de+Python+Java+y+C#;Me+gustan+las+matemáticas;Y+crear+proyectos+open+source."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+Computer+Science+..&hearts;++;Programador+de+Python+Java+y+C#;Me+gustan+las+matemáticas;Y+crear+proyectos+open+source."></a>
 </p>
 
-<img src="https://img.hotimg.com/wepik--202402251800455mqw.png">
+<img src="https://ibb.co/QYmZnRM">
 
 
 ## **Sobre mi**
@@ -18,7 +18,7 @@ Soy estudiante de ciencias de la computación en la Universidad Nacional de Colo
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,cs,java,html,css&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,java&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=angular,django&perline=9)](https://skillicons.dev)
@@ -31,7 +31,7 @@ Soy estudiante de ciencias de la computación en la Universidad Nacional de Colo
 
 <p align="center">
   <a href="https://github.com/johannsrv">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johannsrv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johannsrv&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=judcastanoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=judcastanoro&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
